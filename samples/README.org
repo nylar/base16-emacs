@@ -176,6 +176,10 @@
 
 [[./base16-ocean.png]]
 
+** base16-onedark
+
+[[./base16-onedark.png]]
+
 ** base16-paraiso
 
 [[./base16-paraiso.png]]
